@@ -2,10 +2,10 @@
 
 Please checkout new brach
 
-Title Format: `T{{Number}} - Title`
+Title Format: `TR{{Number}} - Title`
 
 ## Example:
 
-  T001 - Sample Push
+  TR001 - Sample Push
   
-  T011 - Sample React Written Test
+  TR011 - Sample React Written Test
